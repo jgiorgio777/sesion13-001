@@ -4,6 +4,7 @@
     max-width: 900px;
     margin: 0px auto;
     background-color: #ffffff;
+    padding: auto;
 }
 
 ul,
@@ -60,6 +61,7 @@ aside {
     /* flotar para lado izquierdo */
     float: left;
     width: 20%;
+    background-color: yellow;
 }
 
 #contenido {
@@ -70,11 +72,12 @@ aside {
 #contenido article {
     float: left;
     width: 73%;
+    background-color: #7fffd4;
 }
 
 #contenido aside {
     float: right;
-    width: 20%;
+    width: 25%;
 }
 
 footer {
